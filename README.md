@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amgas14&label=Profile%20views&color=0e75b6&style=flat" alt="amgas14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgas14" alt="amgas14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgas14&row=2&column=3" alt="amgas14" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amgas14" target="blank"><img src="https://img.shields.io/twitter/follow/amgas14?logo=twitter&style=for-the-badge" alt="amgas14" /></a> </p>
 
